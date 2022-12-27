@@ -1,6 +1,6 @@
-# Jenkins Pipeline - Working With Artifactory
+# Jenkins Pipeline - Working With Artifactorys
 
-## Introduction
+## Introductions
 Pipeline jobs in Jenkins allow creating a script which defines your build steps. 
 For those not familiar with Jenkins Pipelines, check out the [Pipeline Tutorial](https://github.com/jenkinsci/pipeline-plugin/blob/master/TUTORIAL.md) or the [Getting Started With Pipeline](https://jenkins.io/doc/book/pipeline/) documentation.
 
