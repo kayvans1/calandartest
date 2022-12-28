@@ -1,4 +1,4 @@
-# Jenkins Pipeline - Working With Artifactory
+# Jenkins Pipeline - Working With Artifactorys
 
 ## Introduction
 Pipeline jobs in Jenkins allow creating a script which defines your build steps. 
