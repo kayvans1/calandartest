@@ -1,4 +1,4 @@
-def upSpec = """{
+//def upSpec = """{
     "files": [
             {
                 "pattern": "jenkins-examples/pipeline-examples/resources/ArtifactoryPipeline.zip",
