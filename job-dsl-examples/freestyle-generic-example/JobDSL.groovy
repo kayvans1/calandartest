@@ -2,7 +2,7 @@ def upSpec = """{
     "files": [
             {
                 "pattern": "jenkins-examples/pipeline-examples/resources/ArtifactoryPipeline.zip",
-                "target": "libs-snapshot-local"
+                "target": "libs-snapshot-local" ...
             }
     ]
 }"""
