@@ -2,7 +2,7 @@ pipeline {
     agent any
 
     stages {
-        stage ('Clone') {
+        stage ('Clonee') {
             steps {
                 git branch: 'master', url: 'https://github.com/jfrog/project-examples.git'
             }
