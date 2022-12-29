@@ -1,4 +1,4 @@
-## Introduction
+## Introductions
 The Job DSL plugin allows the programmatic creation of Jenkins jobs using a DSL.
 For more information about the Jenkins Job DSL, refer to [Job DSL Tutorial](https://github.com/jenkinsci/job-dsl-plugin/wiki/Tutorial---Using-the-Jenkins-Job-DSL).
 
