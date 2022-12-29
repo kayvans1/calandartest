@@ -2,7 +2,7 @@ pipeline {
     agent any
 
     environment {
-        DONT_COLLECT = 'FOO'
+         DONT_COLLECT = 'FOO'
     }
 
     stages {
